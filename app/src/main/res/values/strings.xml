@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animax</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="alert_failure">Terjadi Kesalahan</string>
+    <string name="alert_notfound">Data anime belum tersedia</string>
+    <string name="alert_detail_notfound">Anime tidak ditemukan</string>
+    <string name="alert_delete_fav">Dihapus dari favorite</string>
+    <string name="alert_insert_fav">Ditambahkan ke favorite</string>
+
+    <string name="detail_score">Score\n%s</string>
+    <string name="detail_status">Status\n%s</string>
+    <string name="detail_episode">Episode\n%s</string>
+</resources>
